@@ -1,0 +1,5 @@
+Data
+work
+outdir*
+.nextflow*
+params.outdir
